@@ -67,9 +67,13 @@ ER Diagram, normalization steps, and relational schema details → [ReaDorm Proj
     [ReaDorm son eklemeler](https://raw.githubusercontent.com/BuseOzmntse/ReaDorm/main/WebSite1/docs/ReaDorm%20son%20eklemeler.pdf)
 
   👩‍💻 Contributors
+  
     - Buse Özmenteşe
+    
     - Derya Gümüşsoy
+    
     - Dilara Ceren Coşar
 
   📖 License
+  
      This project was developed for educational purposes.
