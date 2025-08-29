@@ -29,6 +29,22 @@ ReaDorm is a modern online platform designed for book lovers. Users can review b
     - Contact → User messages
     ER Diagram, normalization steps, and relational schema details → [ReaDorm Project Report](https://raw.githubusercontent.com/BuseOzmntse/ReaDorm/main/WebSite1/docs/ReaDorm%20Project%20Report.pdf)
 
+📸 Screenshots
+
+    - Homepage
+
+    - Login & Register pages
+
+    - Book detail page
+
+    - Blog page
+
+    - About & Contact pages
+
+    (Screenshots are available in the project report.)
+    [ReaDorm Project Report](https://raw.githubusercontent.com/BuseOzmntse/ReaDorm/main/WebSite1/docs/ReaDorm%20Project%20Report.pdf)  
+    [ReaDorm son eklemeler](https://raw.githubusercontent.com/BuseOzmntse/ReaDorm/main/WebSite1/docs/ReaDorm%20son%20eklemeler.pdf)
+
   👩‍💻 Contributors
     - Buse Özmenteşe
     - Derya Gümüşsoy
