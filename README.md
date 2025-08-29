@@ -27,6 +27,7 @@ ReaDorm is a modern online platform designed for book lovers. Users can review b
     - Category → Book categories
     - Reads → Books read by users
     - Contact → User messages
+    ER Diagram, normalization steps, and relational schema details → docs/ProjectReport.docx
 
   👩‍💻 Contributors
     - Buse Özmenteşe
